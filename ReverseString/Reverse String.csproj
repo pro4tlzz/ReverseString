@@ -7,7 +7,7 @@
     <ProjectGuid>{E4D15C2D-F8E2-400C-9625-4BBD6DCCFE18}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ReverseString</RootNamespace>
-    <AssemblyName>ReverseString</AssemblyName>
+    <AssemblyName>Reverse String</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

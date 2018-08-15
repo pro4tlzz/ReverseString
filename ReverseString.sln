@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{E4D15C2D-F8E2-400C-9625-4BBD6DCCFE18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "ReverseString\Reverse String.csproj", "{E4D15C2D-F8E2-400C-9625-4BBD6DCCFE18}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ReverseStringInstaller", "ReverseStringInstaller\ReverseStringInstaller.vdproj", "{87F7B944-7341-4EF0-8A71-362BAC68567C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{E4D15C2D-F8E2-400C-9625-4BBD6DCCFE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D15C2D-F8E2-400C-9625-4BBD6DCCFE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D15C2D-F8E2-400C-9625-4BBD6DCCFE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F7B944-7341-4EF0-8A71-362BAC68567C}.Debug|Any CPU.ActiveCfg = Debug
+		{87F7B944-7341-4EF0-8A71-362BAC68567C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

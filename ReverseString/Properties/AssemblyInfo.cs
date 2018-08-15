@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ReverseString")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Reverses an input string")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("Mohammed Bilal Habib")]
 [assembly: AssemblyProduct("ReverseString")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2018")]
+[assembly: AssemblyCopyright("Mohammed Bilal Habib")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
