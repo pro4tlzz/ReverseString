@@ -24,7 +24,7 @@ namespace ReverseString
                 Console.Write(userInputChar);
             }
             //Shows text and keeps console open
-            Console.ReadLine();
+          //  Console.ReadLine();
         }
     
     }
